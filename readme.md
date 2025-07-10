@@ -15,7 +15,7 @@
 - 📱 Delivered 10+ mobile apps to Google Play & App Store  
 - 🧩 Passionate about scalable architectures and UX-driven development  
 - 💬 Ask me about **Flutter (BLoC, Cubit, Riverpod, MobX)** or **API integrations**  
-- 📄 My full résumé: [MarcosBakerEN.pdf](https://github.com/bakermarcos/bakermarcos/blob/main/MarcosBakerEN.pdf)  
+- 📄 My full résumé: [MarcosBaker.pdf](https://github.com/bakermarcos/bakermarcos/blob/main/MarcosBaker.pdf)  
 - 📫 Reach me at **marcos.baker@hotmail.com**  
 - 📍 Based in **Contagem, MG – Brazil**
 
