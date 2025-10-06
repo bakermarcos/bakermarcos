@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Full Stack Developer at [Anykrowd](https://anykrowd.com)**  
+- 🔭 I’m currently working as a **Mobile Developer at [PlayerUp](https://www.playerup.co/)**  
 - 🌱 Bachelor in **Systems Engineering @ UFMG**  
 - 🧠 Strong experience with Flutter, VueJS, Laravel, and clean architecture  
 - 📱 Delivered 10+ mobile apps to Google Play & App Store  
