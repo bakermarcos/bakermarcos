@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://baker-dev.web.app"><img src="https://img.shields.io/badge/🌐_Portfolio-baker.tech-06b6d4?style=for-the-badge&labelColor=0b0f14" alt="baker.tech" /></a>
   <a href="https://www.linkedin.com/in/marcosbaker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/bakermarcosdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:macbakerwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=bakermarcos&label=Profile%20views&color=06b6d4&style=for-the-badge" alt="bakermarcos" />
 </p>
@@ -80,6 +81,7 @@
 <p align="center">
   <a href="https://baker-dev.web.app"><img src="https://img.shields.io/badge/-Portfolio-06b6d4?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/marcosbaker/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/bakermarcosdev/"><img src="https://img.shields.io/badge/-@bakermarcosdev-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="mailto:macbakerwork@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
