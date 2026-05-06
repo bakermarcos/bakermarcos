@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Baker</h1>
-<h3 align="center">Mobile & Full-Stack Developer from Brazil | Flutter · Python · React · AI Integration 🚀</h3>
+<h3 align="center">Cross-Platform Product Engineer from Brazil | Flutter · AI Integrations · Backend · 10+ apps shipped end-to-end 🚀</h3>
 
 <p align="center">
   <a href="https://baker-dev.web.app"><img src="https://img.shields.io/badge/🌐_Portfolio-baker.tech-06b6d4?style=for-the-badge&labelColor=0b0f14" alt="baker.tech" /></a>
@@ -19,13 +19,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as **Full Stack Mobile at [Genio Tech](https://geniote.ch/)** — building AI features
-- 📱 **5+ years of Flutter** — delivered **10+ apps** to Google Play & App Store, including the "Calculadora do Pecuarista" (12k+ users in launch week)
-- 🤖 Currently focused on **AI Integration** (speech-to-text pipelines, LLM features) with **Python** and **Flutter**
-- 🌱 Bachelor in **Systems Engineering @ UFMG** (Aug 2026)
-- 🧠 Core stack: **Flutter · Python · React** — plus BLoC · Cubit · Riverpod · MobX · Firebase · CI/CD · Clean Architecture
-- 🧩 Passionate about scalable architectures and UX-driven development
-- 💬 Ask me about **Flutter state management** or **API integrations**
+- 🔭 Currently building **AI transcription at [Genio Tech](https://geniote.ch/)** — speech-to-text pipelines for the Genio AI / Anotar product across iOS, Android and web
+- 📱 **5+ years shipping Flutter apps end-to-end** — delivered **10+ production apps** to App Store & Play Store, including "Calculadora do Pecuarista" (12k+ organic users in launch week)
+- 🧠 Deep state-management work: **Riverpod · BLoC · Cubit · MobX · GetX · GetIt** across multi-module codebases
+- 🔌 I specialize in projects where mobile meets complex integration: **AI transcription · payment gateways · NFC · Bluetooth IoT**
+- 🛠️ Comfortable owning back-end work in **Python · Laravel · Firebase** when products demand it
+- 🌱 B.Sc. in **Systems Engineering @ UFMG**
+- 💬 Ask me about **Flutter state management**, **AI integrations**, or **shipping cross-platform apps to the stores**
 - 📄 My CV: [English](https://github.com/bakermarcos/bakermarcos/blob/main/Marcos_Baker_CV_EN.pdf) · [Português](https://github.com/bakermarcos/bakermarcos/blob/main/Marcos_Baker_CV_PT.pdf)
 - 📫 Reach me at **macbakerwork@gmail.com**
 - 📍 Based in **Contagem, MG – Brazil**
@@ -34,12 +34,34 @@
 
 ### 🔧 Tech Stack
 
+**Mobile & state**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/-Riverpod-0468D7?style=flat&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/-BLoC-2196F3?style=flat&logo=dart&logoColor=white)
+![MobX](https://img.shields.io/badge/-MobX-FF9955?style=flat&logo=mobx&logoColor=white)
+![GetX](https://img.shields.io/badge/-GetX-9B5DE5?style=flat&logo=flutter&logoColor=white)
+
+**AI & integrations**
+![OpenAI](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat&logo=openai&logoColor=white)
+![Speech to Text](https://img.shields.io/badge/-Speech--to--Text-06b6d4?style=flat&logo=googleassistant&logoColor=white)
+![NFC](https://img.shields.io/badge/-NFC-000000?style=flat&logo=nfc&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/-Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)
+
+**Back-end & cloud**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Web**
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**DevOps & tools**
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
