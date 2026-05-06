@@ -19,8 +19,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **AI transcription at [Genio Tech](https://geniote.ch/)** — speech-to-text pipelines for the Genio AI / Anotar product across iOS, Android and web
-- 📱 **5+ years shipping Flutter apps end-to-end** — delivered **10+ production apps** to App Store & Play Store, including "Calculadora do Pecuarista" (12k+ organic users in launch week)
+- 🔭 Currently building **AI transcription at [Genio Tech](https://geniote.ch/)**: speech-to-text pipelines for the Genio AI / Anotar product across iOS, Android and web
+- 📱 **5+ years shipping Flutter apps end-to-end**: delivered **10+ production apps** to App Store & Play Store, including "Calculadora do Pecuarista" (12k+ organic users in launch week)
 - 🧠 Deep state-management work: **Riverpod · BLoC · Cubit · MobX · GetX · GetIt** across multi-module codebases
 - 🔌 I specialize in projects where mobile meets complex integration: **AI transcription · payment gateways · NFC · Bluetooth IoT**
 - 🛠️ Comfortable owning back-end work in **Python · Laravel · Firebase** when products demand it
@@ -28,7 +28,7 @@
 - 💬 Ask me about **Flutter state management**, **AI integrations**, or **shipping cross-platform apps to the stores**
 - 📄 My CV: [English](https://github.com/bakermarcos/bakermarcos/blob/main/Marcos_Baker_CV_EN.pdf) · [Português](https://github.com/bakermarcos/bakermarcos/blob/main/Marcos_Baker_CV_PT.pdf)
 - 📫 Reach me at **macbakerwork@gmail.com**
-- 📍 Based in **Contagem, MG – Brazil**
+- 📍 Based in **Contagem, MG, Brazil**
 
 ---
 
@@ -73,10 +73,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[baker.tech](https://baker-dev.web.app)** | My personal portfolio — glassmorphism UI, EN/PT-BR, live GitHub feed | React · Vite · Firebase (Hosting + Python Functions) |
-| **[rifa-maker](https://github.com/bakermarcos/rifa_maker)** | Raffle creation platform — generate, manage and share online raffles | Flutter · Firebase |
+| **[baker.tech](https://baker-dev.web.app)** | My personal portfolio: glassmorphism UI, EN/PT-BR, live GitHub feed | React · Vite · Firebase (Hosting + Python Functions) |
+| **[rifa-maker](https://github.com/bakermarcos/rifa_maker)** | Raffle creation platform: generate, manage and share online raffles | Flutter · Firebase |
 | **[acheiquadra](https://github.com/bakermarcos/quadrafacil)** | Find and book sports courts near you | Flutter · Maps API · Firebase |
-| **[nfc_csem](https://github.com/bakermarcos/nfc_csem)** | NFC-based data acquisition — innovative contactless workflow | Flutter · NFC |
+| **[nfc_csem](https://github.com/bakermarcos/nfc_csem)** | NFC-based data acquisition: innovative contactless workflow | Flutter · NFC |
 | **[brasil_cripto](https://github.com/bakermarcos/brasil_cripto)** | Crypto portfolio tracker focused on the Brazilian market | Flutter · REST APIs |
 
 ---
